@@ -76,6 +76,7 @@
 		325725262BECC44C00B36B0F /* GHFollowers */ = {
 			isa = PBXGroup;
 			children = (
+				325725352BECC44F00B36B0F /* Info.plist */,
 				3263C69F2BF61CCE0066DBDF /* Manager */,
 				3263C69A2BF51E630066DBDF /* Model  */,
 				3263C6992BF4CA4E0066DBDF /* Support */,
@@ -92,7 +93,6 @@
 				3257253B2BECD1C900B36B0F /* SearchVC.swift */,
 				3257253D2BECD21A00B36B0F /* FavListVC.swift */,
 				325725432BEF409100B36B0F /* FollowerListVC.swift */,
-				325725352BECC44F00B36B0F /* Info.plist */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
